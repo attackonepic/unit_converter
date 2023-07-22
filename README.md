@@ -44,4 +44,4 @@ License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 Contact
 
-For any questions or suggestions related to the project, feel free to contact [Your Email]. Your feedback is highly appreciated!
+For any questions or suggestions related to the project, feel free to contact me. Your feedback is highly appreciated!
