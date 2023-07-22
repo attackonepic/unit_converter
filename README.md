@@ -35,7 +35,7 @@ Screenshots
 Unit Converter
 Credits
 
-    The unit converter was developed by [Your Name].
+    The unit converter was developed by Matias Villa.
     The icon used in the main window (icono.ico) is provided by IconArchive.
     The images used in the conversion windows (temperatura.ico, largo.ico, escala.ico) are provided by IconFinder.
 
